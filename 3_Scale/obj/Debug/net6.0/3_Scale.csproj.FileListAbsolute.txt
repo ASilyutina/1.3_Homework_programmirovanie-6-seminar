@@ -1,0 +1,15 @@
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\3_Scale\bin\Debug\net6.0\3_Scale.exe
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\3_Scale\bin\Debug\net6.0\3_Scale.deps.json
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\3_Scale\bin\Debug\net6.0\3_Scale.runtimeconfig.json
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\3_Scale\bin\Debug\net6.0\3_Scale.dll
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\3_Scale\bin\Debug\net6.0\3_Scale.pdb
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\3_Scale\obj\Debug\net6.0\3_Scale.csproj.AssemblyReference.cache
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\3_Scale\obj\Debug\net6.0\3_Scale.GeneratedMSBuildEditorConfig.editorconfig
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\3_Scale\obj\Debug\net6.0\3_Scale.AssemblyInfoInputs.cache
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\3_Scale\obj\Debug\net6.0\3_Scale.AssemblyInfo.cs
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\3_Scale\obj\Debug\net6.0\3_Scale.csproj.CoreCompileInputs.cache
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\3_Scale\obj\Debug\net6.0\3_Scale.dll
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\3_Scale\obj\Debug\net6.0\refint\3_Scale.dll
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\3_Scale\obj\Debug\net6.0\3_Scale.pdb
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\3_Scale\obj\Debug\net6.0\3_Scale.genruntimeconfig.cache
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\3_Scale\obj\Debug\net6.0\ref\3_Scale.dll
