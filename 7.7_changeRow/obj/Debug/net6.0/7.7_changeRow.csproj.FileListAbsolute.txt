@@ -1,0 +1,15 @@
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\7.7_changeRow\bin\Debug\net6.0\7.7_changeRow.exe
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\7.7_changeRow\bin\Debug\net6.0\7.7_changeRow.deps.json
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\7.7_changeRow\bin\Debug\net6.0\7.7_changeRow.runtimeconfig.json
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\7.7_changeRow\bin\Debug\net6.0\7.7_changeRow.dll
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\7.7_changeRow\bin\Debug\net6.0\7.7_changeRow.pdb
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\7.7_changeRow\obj\Debug\net6.0\7.7_changeRow.csproj.AssemblyReference.cache
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\7.7_changeRow\obj\Debug\net6.0\7.7_changeRow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\7.7_changeRow\obj\Debug\net6.0\7.7_changeRow.AssemblyInfoInputs.cache
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\7.7_changeRow\obj\Debug\net6.0\7.7_changeRow.AssemblyInfo.cs
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\7.7_changeRow\obj\Debug\net6.0\7.7_changeRow.csproj.CoreCompileInputs.cache
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\7.7_changeRow\obj\Debug\net6.0\7.7_changeRow.dll
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\7.7_changeRow\obj\Debug\net6.0\refint\7.7_changeRow.dll
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\7.7_changeRow\obj\Debug\net6.0\7.7_changeRow.pdb
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\7.7_changeRow\obj\Debug\net6.0\7.7_changeRow.genruntimeconfig.cache
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\7.7_changeRow\obj\Debug\net6.0\ref\7.7_changeRow.dll
