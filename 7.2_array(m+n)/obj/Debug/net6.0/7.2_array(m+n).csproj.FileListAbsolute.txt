@@ -1,0 +1,15 @@
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\7.2_array(m+n)\bin\Debug\net6.0\7.2_array(m+n).exe
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\7.2_array(m+n)\bin\Debug\net6.0\7.2_array(m+n).deps.json
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\7.2_array(m+n)\bin\Debug\net6.0\7.2_array(m+n).runtimeconfig.json
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\7.2_array(m+n)\bin\Debug\net6.0\7.2_array(m+n).dll
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\7.2_array(m+n)\bin\Debug\net6.0\7.2_array(m+n).pdb
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\7.2_array(m+n)\obj\Debug\net6.0\7.2_array(m+n).csproj.AssemblyReference.cache
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\7.2_array(m+n)\obj\Debug\net6.0\7.2_array(m+n).GeneratedMSBuildEditorConfig.editorconfig
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\7.2_array(m+n)\obj\Debug\net6.0\7.2_array(m+n).AssemblyInfoInputs.cache
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\7.2_array(m+n)\obj\Debug\net6.0\7.2_array(m+n).AssemblyInfo.cs
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\7.2_array(m+n)\obj\Debug\net6.0\7.2_array(m+n).csproj.CoreCompileInputs.cache
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\7.2_array(m+n)\obj\Debug\net6.0\7.2_array(m+n).dll
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\7.2_array(m+n)\obj\Debug\net6.0\refint\7.2_array(m+n).dll
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\7.2_array(m+n)\obj\Debug\net6.0\7.2_array(m+n).pdb
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\7.2_array(m+n)\obj\Debug\net6.0\7.2_array(m+n).genruntimeconfig.cache
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\6ой семинар\7.2_array(m+n)\obj\Debug\net6.0\ref\7.2_array(m+n).dll
